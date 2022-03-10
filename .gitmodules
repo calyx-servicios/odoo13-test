@@ -1,0 +1,4 @@
+[submodule "calyx/third-party-paid"]
+	path = calyx/third-party-paid
+	url = git@github.com:calyx-servicios/third-party-paid.git
+	branch = 13.0
